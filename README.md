@@ -17,7 +17,7 @@ Full Stack Developer with 2 years of experience building web and mobile applicat
 
 ---
 
-## TECHNICAL SKILLS
+### TECHNICAL SKILLS
 
 **Mobile Development:** React Native, cross-platform app development, platform-specific functionality, dynamic app launcher customization
 
