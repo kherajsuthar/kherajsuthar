@@ -8,9 +8,6 @@
 Gandhinagar, Gujarat | 9057262847 | kherajsuthar8@gmail.com | [LinkedIn](https://www.linkedin.com/in/kheraj-suthar-016b6a2b8) | [GitHub](https://github.com/kherajsuthar) | [GitLab](https://gitlab.com/kherajsuthar)
 
 </div>
-<div align="center">
-  <img src="https://ghchart.rshah.org/kherajsuthar" alt="GitHub Contribution Graph" width="100%" />
-</div>
 ---
 
 ### PROFESSIONAL SUMMARY
